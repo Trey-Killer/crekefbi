@@ -6,7 +6,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/birecode/crekefbi
+git clone https://github.com/Trey-Killer/crekefbi
 
 cd crekefbi
 
